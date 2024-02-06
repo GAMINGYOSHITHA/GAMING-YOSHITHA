@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>(GAMING YOSHITHA) </title>
+</head>
+<H3>HI BOYS THIS IS GAMING YOSHITHA YOUTUBE CHANNEL WEB SITE.</H3>
+<body BGCOLOR="YELLOW"> 
+<img src= "yosh.png"width="800" length="1600">  <br>
+<h3>subscribe now https://www.youtube.com/@GAMINGYOSHITHA600</h3>
+</body>
+</html>
